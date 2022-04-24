@@ -44,3 +44,13 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## custom commands 
+
+### create blog automatically via command line
+https://github.com/jekyll/jekyll-compose
+
+
+### commands
+- bundle exec jekyll s --> To run on local server
+- 
