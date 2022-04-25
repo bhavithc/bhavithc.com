@@ -3,6 +3,7 @@ layout: post
 title: Be careful when using const reference with std::thread / std::async in C++.
   Otherwise you may be in soup if you don't know this ! :)
 date: 2022-04-25 13:42 +0530
+tags: [c++, threading]
 ---
 
 From the basics of C and C++. we all know that when we use address-of operator to the variable, then it is an alias of the original variable it points to, and shares the same address.

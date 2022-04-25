@@ -2,6 +2,7 @@
 layout: post
 title: Make your life easy & productive with alias in Linux
 date: 2022-04-25 13:39 +0530
+tags: [bash, shellscript, linux, alias]
 ---
 
 When I worked first time with Linux (Ubuntu), I use to remember lot of commands required for my project. In order to make myself productive I started creating either a text file called `help.txt` or create a notes in OneNote to save all those commands. So when ever I need a command I use to copy the command from my `help.txt` file and use `Ctrl + Shift + v` to paste on my terminal and go on.

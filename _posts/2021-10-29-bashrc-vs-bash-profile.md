@@ -2,6 +2,7 @@
 layout: post
 title: ".bashrc Vs .bash_profile"
 date: 2021-10-29 20:02 +0530
+tags: [bash, shellscript]
 ---
 
 # What is the difference between .bashrc and .bash_profile

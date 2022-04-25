@@ -2,6 +2,7 @@
 layout: post
 title: Lambda Expression Cheatsheet in C++/CPP
 date: 2022-04-25 13:37 +0530
+tags: [c++, lambda]
 ---
 
 With out much theory on what is lambda and what is the history behind it. Lets get straight to the point.

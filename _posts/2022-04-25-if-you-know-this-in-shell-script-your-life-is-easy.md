@@ -2,6 +2,7 @@
 layout: post
 title: If you know this in shell script your life is easy
 date: 2022-04-25 13:40 +0530
+tags: [bash, shellscript]
 ---
 
 There is one thing which we often get confuse in shell script, especially for those who are new to shell scripting
