@@ -49,6 +49,7 @@ This work is published under [MIT][mit] License.
 
 ### create blog automatically via command line
 https://github.com/jekyll/jekyll-compose
+- bundle exec jekyll post "My New Post" --timestamp-format "%Y-%m-%d %H:%M:%S %z"
 
 
 ### commands
