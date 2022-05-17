@@ -3,6 +3,7 @@ layout: post
 title: Simple way to implement Singleton design pattern without using pointers in c++
 date: 2022-05-10 00:02 +0530
 tags: [c++, cpp, design-pattern]
+categories: [design-pattern]
 ---
 
 ## A simple way to create a singleton design pattern
