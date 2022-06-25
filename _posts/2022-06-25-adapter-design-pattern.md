@@ -370,6 +370,12 @@ Also we have two adoptee's
 
 Now on **Bhavith** can use N number of xml parsers and his application scales up drastically. That is the beauty of Adapter design pattern
 
+### When can I choose Adapter design pattern?
+> It is very simple, Thumb rule is, When ever there you want to work with 3rd party library in your software, close your eyes and go ahead and implement Adapter design pattern
+> 
+3rd party always no need to be an external library, it could be a piece of code, where you feel interface may keep change in future
+{: .prompt-tip }
+
 If you really like the post please do the following
 - You can connect me on LinkedIn [LinkedIn](https://www.linkedin.com/in/bhavithc/)
 - Subscribe to my youtube channel [Youtube](https://www.youtube.com/c/BhavithC)
